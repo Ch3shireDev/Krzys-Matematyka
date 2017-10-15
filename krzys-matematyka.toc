@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}Zadania ABCD}{1}
+\contentsline {section}{\numberline {2}Geogebra}{2}
